@@ -34,7 +34,8 @@ These are hardcoded in the login page.
 
 ## Hosted Links
 
-- **Frontend**: [Fruit.ai on Vercel](https://fruit-ai-pi.vercel.app/login)
+- **Frontend**: [https://sujoy1196-fruitai.vercel.app/login](https://sujoy1196-fruitai.vercel.app/login)
+- **server**: [https://fruitai-backend-yxmz.onrender.com/](https://fruitai-backend-yxmz.onrender.com/)
 
 ## Setup Instructions
 
